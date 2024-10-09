@@ -1,7 +1,7 @@
 
-# Progressive Multi-Granularity Training
+# SFSCF-Net
  
-Code release for Fine-Grained Visual Classiﬁcation via Progressive Multi-Granularity Training of Jigsaw Patches (ECCV2020)
+Code release for Significant Feature Suppression and Cross-festure Fusion Networks for Fine-grained Visual Classification
  
 ### Requirement
  
@@ -43,13 +43,13 @@ dataset
 
 ### Citation
  
-Please cite our paper if you use PMG in your work.
+Please cite our paper if you use in your work.
 ```
 @InProceedings{du2020fine,
-  title={Fine-Grained Visual Classification via Progressive Multi-Granularity Training of Jigsaw Patches},
-  author={Du, Ruoyi and Chang, Dongliang and Bhunia, Ayan Kumar and Xie, Jiyang and Song, Yi-Zhe and Ma, Zhanyu and Guo, Jun},
-  booktitle = {European Conference on Computer Vision},
-  year={2020}
+  title={Significant Feature Suppression and Cross-festure Fusion Networks for Fine-grained Visual Classification},
+  author={Yang, Shengying and Yang, Xinqi and Wu, Jianfeng and Feng, Boyang},
+  booktitle = {},
+  year={}
 }
 
 ```
@@ -57,6 +57,6 @@ Please cite our paper if you use PMG in your work.
 ## Contact
 Thanks for your attention!
 If you have any suggestion or question, you can leave a message here or contact us directly:
-- mazhanyu@bupt.edu.cn
-- beiyoudry@bupt.edu.cn
+- syyang@zust.edu.cn
+- wujianfengwz1020@163.com
 
