@@ -45,7 +45,7 @@ dataset
  
 Please cite our paper if you use in your work.
 ```
-@InProceedings{du2020fine,
+@InProceedings{
   title={Significant Feature Suppression and Cross-festure Fusion Networks for Fine-grained Visual Classification},
   author={Yang, Shengying and Yang, Xinqi and Wu, Jianfeng and Feng, Boyang},
   booktitle = {},
